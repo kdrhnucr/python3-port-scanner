@@ -1,4 +1,4 @@
-# Python3 Port Scanner v0.1
+# About Python3 Port Scanner v0.1
 An easy to use Python3 package that could perform port scanning conveniently.
 # Features
 1- Simply scans for open ports on a given IP address.
