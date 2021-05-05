@@ -7,7 +7,19 @@ An easy to use Python3 package that could perform port scanning conveniently.
 # Usage
 Using this scripts is very easy, u only need CMD or Terminal.
 
-Open a CMD or Terminal, and enter commands.
+Lets open a CMD or Terminal, and enter commands.
 ```sh
 $ python3 python3-port-scanner.py
+```
+Enter IP adress or localhost.
+And enter desired port ranges. (example would be 1-30)
+After shows all open ports.
+# Output
+```sh
+Please enter IP adress (or localhost): entered IP adress
+entered IP adress is a IP address to scan
+Please enter the range of ports in format: (example would be 10-30)
+Enter desired port range: 10-30
+Port 23 is OPEN on entered IP adress.
+Port 80 is OPEN on entered IP adress.
 ```
