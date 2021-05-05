@@ -9,6 +9,8 @@ Using this scripts is very easy, u only need CMD or Terminal.
 
 Lets open a CMD or Terminal, and enter commands.
 ```sh
+$ git clone https://github.com/kdrhnucr/python3-port-scanner.git
+$ cd python3-port-scanner
 $ python3 python3-port-scanner.py
 ```
 Enter IP adress or localhost.
