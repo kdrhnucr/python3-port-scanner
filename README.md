@@ -12,7 +12,9 @@ Lets open a CMD or Terminal, and enter commands.
 $ python3 python3-port-scanner.py
 ```
 Enter IP adress or localhost.
+
 And enter desired port ranges. (example would be 1-30)
+
 After shows all open ports.
 # Output
 ```sh
