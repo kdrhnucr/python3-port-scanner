@@ -20,7 +20,7 @@ print ("")
 
 
 
-ip_model = re.compile("^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$")
+ip_model = re.compile(r"^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$")
 port_model = re.compile("([0-9]+)-([0-9]+)")
 
 min_port = 0
